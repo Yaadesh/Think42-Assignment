@@ -1,0 +1,36 @@
+{"UserA" : {
+                   "movie":["Spiderman", "Avengers"],
+                   "cities":["Newyork", "Washington","Dallas"],
+                   "food":["Burger", "Mexican"],
+                   "sports":["Soccer", "Cricket"],
+                   "books":["Youcanwin", "Blackkeys", "Halfgirlfriend"],
+                   "music": ["Rock", "Jazz"]
+             },
+"UserB" : {
+                   "movie":["Spiderman", "Thor"],
+                   "cities":["Chennai", "Bangalore"],
+                   "food":["Pizza", "Burger"],
+                   "sports":["Soccer", "Cricket"],
+                   "books":["Sapiens", "Blackkeys", "Halfgirlfriend"],
+                   "music": ["Classical", "Pop"]
+             }  ,
+"UserC" : {
+                   "movie":["darkknight", "captainamerica"],
+                   "cities":["pune", "kolkata"],
+                   "food":["biriyani", "shawarma"],
+                   "sports":["squash", "golf"],
+                   "books":[ "harrypotter"],
+                   "music": ["heavymetal", "reggae"]
+             },
+
+"UserD" : {
+                   "movie":["spiderman", "avengers"],
+                   "cities":["Newyork", "Washington","Dallas"],
+                   "food":["biriyani", "shawarma"],
+                   "sports":["squash", "golf"],
+                   "books":[ "harrypotter"],
+                   "music": ["heavymetal", "reggae"]
+             }
+                     
+
+}
